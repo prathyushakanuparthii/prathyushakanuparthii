@@ -9,4 +9,5 @@
 
 -📫 How to reach me:
   - LinkedIn: https://www.linkedin.com/in/prathyusha-kanuparthi
-  - Email: hprathyusha8@gmail.com
+  - Email: prathyushakanuparthi@gmail.com
+    
