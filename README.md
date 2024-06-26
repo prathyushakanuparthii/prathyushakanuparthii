@@ -1,11 +1,16 @@
+I'm a self-taught passionate Data Analyst from India 🇮🇳
 
--👋 Hi, I’m @prathyushakanuparthii
+About me
 
--👀 I’m interested in data analytics
+💼 Aspiring Data Analyst
 
--🌱 I’m currently learning data analytics
+📊 Developed interactive Power BI dashboards and visualizations for IPL data, identified key performance trends, and managed end-to-end data projects.
 
--💞️ I’m looking to collaborate on projects related to data analytics, visualization, and machine learning.
+🛠️ Proficient in Python, SQL, advanced Excel, and data analysis techniques. Hands-on experience with data cleaning, manipulation, and visualization.
+
+❤️ Passionate about uncovering insights from data and using data-driven strategies to solve real-world problems.
+
+💬 Ask me about data analysis, visualization techniques, and Python programming.
 
 -📫 How to reach me:
   - LinkedIn: https://www.linkedin.com/in/prathyusha-kanuparthi
