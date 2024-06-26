@@ -11,4 +11,4 @@
   - LinkedIn: https://www.linkedin.com/in/prathyusha-kanuparthi
   - Email: prathyushakanuparthi@gmail.com
     
-[![Prathyusha's GitHub stats](https://github-readme-stats.vercel.app/api?username=prathyushakanuparthii)](https://github.com/prathyushakanuparthii/github-readme-stats)
+![Prathyusha's GitHub stats](https://github-readme-stats.vercel.app/api?username=prathyushakanuparthii&show_icons=true&theme=radical)
